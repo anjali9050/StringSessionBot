@@ -52,7 +52,7 @@ By @anumitultrabots
 
 Telegram Bot to generate Pyrogram and Telethon string session by @anumitultrabots
 
-Source Code : [Click Here](https://github.com/anumitultrabotsIndustries/StringSessionBot)
+Source Code : [Click Here](https://t.me/anumitultrabots)
 
 Framework : [Pyrogram](https://docs.pyrogram.org)
 
